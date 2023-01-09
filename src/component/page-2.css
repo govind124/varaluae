@@ -1,0 +1,26 @@
+*{
+    height: fit-content;
+}
+.Main_2{
+    position: relative;
+    width: fit-content;
+    right: inherit;
+    height: fit-content;
+}
+.eclipse{
+    position: relative;
+    bottom: 1700px;
+    left: 400px;
+}
+.sechr_Line{
+    width: fit-content;
+}
+.Dedicated{
+    width: fit-content;
+}
+.UAE_Dubai_Offshore{
+    background-color: green;
+    display: inline-block;
+    height: 0px;
+    width: fit-content;
+}

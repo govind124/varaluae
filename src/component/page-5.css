@@ -1,0 +1,168 @@
+.horizontal_bar{
+    height: fit-content;
+    width: fit-content;
+    position: relative;
+    bottom: 280px;
+    left: 370px;    
+}
+.Main_5{
+    width: fit-content;
+    position: relative;
+    right: 160px;
+    height: fit-content;
+}
+.firstHR{
+    transform: rotate(90deg);
+    width: 50px;
+    height: 3px;
+    background-color:#525ded;
+    position: relative;
+    bottom: 2418px;
+    right: 120px;
+
+}
+.secondHR{
+    transform: rotate(90deg);
+    width: 50px;
+    height: 3px;
+    background-color:#525ded;
+    position: relative;
+    bottom: 2525px;
+    left: 500px;
+
+}
+.thirdHR{
+    transform: rotate(90deg);
+    width: 50px;
+    height: 3px;
+    background-color:#525ded;
+    position: relative;
+    bottom: 2720px;
+    left:360px; 
+}
+.cast_Icon{
+    color: #525ded;
+    height:90px;
+    width: 90px;
+    border: 2px solid #525ded;
+    border-radius: 5px;
+    position: relative;
+    top: 8px;
+    left: 7px;
+}
+.cast_Icon #FaRssSquare{
+    height: 65px;
+    width: 65px;
+    position: relative;
+    border: none;
+    top: 13px;
+    left: 10px;
+    color: #525ded;
+}
+.cast_Main{
+    width: max-content;
+    position: relative;
+    display: flex;
+    row-gap: 20px;
+    flex-direction: column;
+    bottom: 2800px;
+    left: 380px;
+}
+.cast_Classes{
+    height: 110px;
+    /* border: 2px solid black; */
+    width: 400px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.cast_Icon{
+   background-color: white;
+}
+#min{
+    color: #525ded;
+    width: 70px;
+}
+.cast_Classes:hover{
+    background-color: #525ded;
+    color: white;
+}
+.contactIcon{
+    height: 38px;
+    width: 38px;
+    border-radius: 50%;
+    justify-content: center;
+    text-align: center;
+    border: 2px solid #525ded;
+}
+#contactIcon{
+    height: 35px;
+    width: 35px;
+    position: relative;
+    top: 2px;
+    color: #525ded;
+}
+.reviews{
+    /* background-color: #525ded; */
+    height: 160px;
+}
+.review_all_select{
+    position: relative;
+    bottom: 2700px;
+    left: 400px;
+}
+
+    
+.All_Services{
+    position: relative;
+    height: fit-content;
+    bottom: 3750px;
+    left: 1040px;
+}
+.Services p{
+      height: 10px;
+      color: gray;
+}
+.input_Main{
+    position: relative;
+    top: 40px;
+    /* right: px; */
+}
+.email_input{
+    background-color: rgb(245, 241, 241);
+    text-align: center;
+    color: gray;
+    border-radius: 5px;
+}
+.email_img{
+    position: relative;
+    top: 16px;
+    height: 40px;
+}
+.All_AI{
+    display: flex;
+    position: relative;
+    top: 35px;
+  gap: 20px;
+  color: rgb(80, 79, 79);
+}
+.AI{
+    height: 35px;
+    width: 35px;
+}
+.ThankYou{
+    position: relative;
+    right: 350px;
+    top: 100px;
+    font-weight:bold;
+    color: rgb(182, 178, 178);
+    /* background-color: #525ded; */
+    width: fit-content;
+}
+.third_Hr_Line{
+    width: fit-content;
+}
+.image_Bracket{
+    position: relative;
+    width: fit-content;
+    right: 100px;
+}

@@ -1,0 +1,34 @@
+.main_options{
+    display: flex;
+    gap: 50px;
+    font-size: 20px;
+    position: relative;
+    width: fit-content;
+    left: 800px;
+    bottom: 70px;    
+    color: gray;
+}
+.main_options p:hover{
+    color: black;
+    cursor: pointer;
+}
+.div{
+    height: 50px;
+    width: 200px;
+    justify-content: center;
+    text-align: center;
+    background-color: #525ded;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    position: relative;
+    left: 1300px;
+    bottom: 150px;
+    cursor: pointer;
+}
+.div p{
+    position: relative;
+    top: 10px;
+    
+}
+

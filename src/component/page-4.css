@@ -1,0 +1,53 @@
+.three_cards{
+    display: flex;
+    gap: 10px;
+    position: relative;
+    bottom: 2850px;
+    left: 380px;
+    width:fit-content ;
+}
+.Main_4{
+    width: fit-content;
+    position: relative;
+    right: 160px;
+    height: fit-content;
+}
+.class{
+    height: 550px;
+    width: 300px;
+    /* border:2px solid #050506; */
+    border-radius: 10px;
+    color: #525ded;
+}
+.class .Buttons{
+    width:280px;
+    height: 55px;
+    position: relative;
+    bottom: 35px;
+    left: 10px;
+    background-color: white;
+    border: 2px solid #525ded;
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#second-class{
+    background-color: #525ded;
+    color: white;
+}
+#second-class .Buttons{
+    background-color: white;
+    color:#525ded;
+    border: 2px solid white;
+}
+
+#button-2:hover{
+    background-color: #525ded;
+    color: white;
+}
+.Buttons:hover{
+    background-color: #525ded;
+    color: white;
+}

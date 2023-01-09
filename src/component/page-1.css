@@ -1,0 +1,92 @@
+*{
+    height: fit-content;
+}
+.searchContainer{
+    position: relative;
+    left: 1120px;
+    height: 40px;
+    width: 350px;
+    border-radius: 10px;
+    border: 2px solid #525ded;
+    bottom: 70px;
+
+}
+.searchContainer input{
+    border: none;
+    font-size: 20px;
+    position: relative;
+    left: 50px;
+    /* top: px; */
+    color: #525ded;
+    
+}
+.searchIcon{
+      position: relative;
+      right: 250px;
+      top: 5px;
+      font-size:25px ;
+      color:#525ded;
+      font-weight: bold;
+}
+.HRLine{
+    width: max-content;
+}
+
+
+.buttons{
+    position: relative;
+    left: 30px;
+   top: -1070px;
+}
+.buttons button{
+    height: 70px;
+    width: 250px;
+    font-size: 20px;
+    border: 2px solid #525ded;
+    border-radius: 3px;
+
+}
+.firButton{
+    /* background-color: #525ded; */
+    color:#525ded;
+}
+.firButton:hover{
+    background-color:#525ded;
+    color: white;
+}
+.secButton{
+    color:#525ded;
+}
+.secButton:hover{
+    color: white;
+    background-color: #525ded;
+}
+
+.lecture_01{
+position: relative;
+bottom: 1050px;
+left: 20px;
+font-size: 25px;
+font-weight: bold;
+color: gray;
+}
+.illu{
+    width: fit-content;
+    position: relative;
+    bottom: 700px;
+    /* border: 2px solid black; */
+    left: 770px;
+    height: 600px;
+    width: 700px;
+  
+}
+
+.circle{
+    position: relative;
+    bottom: 1069px;
+    left: 930px;
+    height: 40px;
+    width: 42px;
+    border: 2px solid #525ded;
+    border-radius: 50%;
+}

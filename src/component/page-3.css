@@ -1,0 +1,57 @@
+*{
+  height: fit-content;  
+}
+.Main_3{
+    width: fit-content;
+    position: relative;
+    right: 160px;
+    height: fit-content;
+}
+.first_Box{
+    position: relative;
+    bottom: 1650px;
+    left: 1000px;
+    height: 600px;
+    width: 400px;
+    border: 2px solid gray;
+    /* justify-content: center;
+    text-align: center; */
+    border-radius: 10px;
+}
+.second_Box{
+    position: relative;
+    bottom: 2160px;
+    left: 250px;
+    height: 600px;
+    width: 400px;
+    border: 2px solid gray;
+    border-radius: 10px;  
+}
+.third_Box{
+    position: relative;
+    bottom: 2220px;
+    left: 1010px;
+    height: 600px;
+    width: 400px;
+    border: 2px solid gray;
+    border-radius: 10px;  
+}
+.fourth_Box{
+    position: relative;
+    bottom: 2550px;
+    left: 248px;
+    height: 600px;
+    width: 400px;
+    border: 2px solid gray;
+    border-radius: 10px;  
+}
+.All_Cards{
+    height: fit-content;
+    width: fit-content;
+    margin: 0%;
+    padding: 0%;
+
+}
+.second_class{
+    height: 300px;
+}
